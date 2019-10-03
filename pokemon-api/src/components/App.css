@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.cards{
+  display: flex!important;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-around;
+}
+div.ui.card{
+  margin: 10px 0!important;
+}
+img{
+  height: 410px!important;
+}
+h1{
+  margin: 20px 0!important;
+}
